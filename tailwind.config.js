@@ -18,6 +18,10 @@ export default {
       10: "10px",
       20: "20px",
     },
+    lineHeight: {
+      140: "140%",
+      120: "120%",
+    },
     extend: {},
   },
   plugins: [],
